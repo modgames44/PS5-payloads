@@ -12,8 +12,8 @@
     },
     {
       "name": "ShadowMountPlus",
-      "filename": "shadowMountPlus.elf",
-      "url": "https://modgames44.github.io/ps5-payloads/shadowMountPlus.elf",
+      "filename": "shadowmountplus.elf",
+      "url": "https://modgames44.github.io/ps5-payloads/shadowmountplus.elf",
       "source": "https://github.com/drakmor/ShadowMountPlus/releases",
       "description": "Payload automatizado para montar e instalar copias de juegos de PS5 sin herramientas externas.",
       "last_update": "9.08.2026",
