@@ -45,5 +45,14 @@
       "description": "Servidor FTP básico que acepta conexiones en el puerto 2121.",
       "last_update": "2.08.2026",
       "version": "v0.21"
+      {
+      "name": "OnionHen",
+      "filename": "onionhen 0.0.10.elf",
+      "url": "https://modgames44.github.io/ps5-payloads/onionhen 0.0.10.elf",
+      "source": "https://github.com/aydencharles/onionHEN/releases/tag/v0.0.10",
+      "description": "★Caja de herramientas OnionHEN.",
+      "last_update": "17.08.2026",
+      "version": "v0.0.10"
+    },
   ]
 }
