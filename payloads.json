@@ -45,6 +45,7 @@
       "description": "Servidor FTP básico que acepta conexiones en el puerto 2121.",
       "last_update": "2.08.2026",
       "version": "v0.21"
+      },
       {
       "name": "OnionHen",
       "filename": "onionhen-0.0.10.elf",
