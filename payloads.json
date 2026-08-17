@@ -13,7 +13,7 @@
     {
       "name": "ShadowMountPlus",
       "filename": "ShadowMountplus-1.7alpha6.elf",
-      "url": "https://modgames44.github.io/ps5-payloads/shadowmountplus-1.7alpha6.elf",
+      "url": "https://modgames44.github.io/ps5-payloads/ShadowMountplus-1.7alpha6.elf",
       "source": "https://github.com/drakmor/ShadowMountPlus/releases",
       "description": "Payload automatizado para montar e instalar copias de juegos de PS5 sin herramientas externas.",
       "last_update": "9.08.2026",
@@ -31,7 +31,7 @@
     {
       "name": "nanoDNS",
       "filename": "nanoDNS-v0.4.elf",
-      "url": "https://modgames44.github.io/ps5-payloads/nanodns-v0.4.elf",
+      "url": "https://modgames44.github.io/ps5-payloads/nanoDNS-v0.4.elf",
       "source": "https://github.com/drakmor/nanoDNS/releases",
       "description": "Servidor proxy DNS local que permite redirigir dominios mediante filtros y configuraciones personalizadas.",
       "last_update": "4.08.2026",
