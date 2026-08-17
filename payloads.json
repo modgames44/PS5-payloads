@@ -3,8 +3,8 @@
   "payloads": [
    {
       "name": "Kstuff Lite",
-      "filename": "kstuff.elf",
-      "url": "https://modgames44.github.io/ps5-payloads/kstuff.elf",
+      "filename": "kstuff-1.10.elf",
+      "url": "https://modgames44.github.io/ps5-payloads/kstuff-1.10.elf",
       "source": "https://github.com/EchoStretch/kstuff-lite/releases",
       "description": "Desbloqueador de juegos y apps, sin esto no juegas.",
       "last_update": "11.08.2026",
@@ -12,8 +12,8 @@
     },
     {
       "name": "ShadowMountPlus",
-      "filename": "shadowmountplus.elf",
-      "url": "https://modgames44.github.io/ps5-payloads/shadowmountplus.elf",
+      "filename": "ShadowMountplus-1.7alpha6.elf",
+      "url": "https://modgames44.github.io/ps5-payloads/shadowmountplus-1.7alpha6.elf",
       "source": "https://github.com/drakmor/ShadowMountPlus/releases",
       "description": "Payload automatizado para montar e instalar copias de juegos de PS5 sin herramientas externas.",
       "last_update": "9.08.2026",
@@ -30,7 +30,7 @@
     },
     {
       "name": "nanoDNS",
-      "filename": "nanodns-v0.4.elf",
+      "filename": "nanoDNS-v0.4.elf",
       "url": "https://modgames44.github.io/ps5-payloads/nanodns-v0.4.elf",
       "source": "https://github.com/drakmor/nanoDNS/releases",
       "description": "Servidor proxy DNS local que permite redirigir dominios mediante filtros y configuraciones personalizadas.",
@@ -48,7 +48,7 @@
       },
       {
       "name": "OnionHen",
-      "filename": "onionhen-0.0.10.elf",
+      "filename": "OnionHEN-0.0.10.elf",
       "url": "https://modgames44.github.io/ps5-payloads/onionhen-0.0.10.elf",
       "source": "https://github.com/aydencharles/onionHEN/releases/tag/v0.0.10",
       "description": "★Caja de herramientas OnionHEN.",
