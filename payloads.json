@@ -55,5 +55,14 @@
       "last_update": "17.08.2026",
       "version": "v0.0.10"
     },
+    {
+      "name": "etaHEN-2.6B",
+      "filename": "etaHEN-2.6B.bin",
+      "url": "https://modgames44.github.io/ps5-payloads/etaHEN-2.6B.bin",
+      "source": "https://modgames44.github.io/ps5-payloads/",
+      "description": "★Caja de herramientas etaHEN-2.6B.",
+      "last_update": "17.08.2026",
+      "version": "v2.6B"
+    },
   ]
 }
