@@ -64,5 +64,14 @@
       "last_update": "17.08.2026",
       "version": "v2.6B"
     },
+    {
+      "name": "apr_emu_updater",
+      "filename": "apr_emu_updater.elf",
+      "url": "https://modgames44.github.io/ps5-payloads/apr_emu_updater.elf",
+      "source": "https://modgames44.github.io/ps5-payloads/",
+      "description": "★Actualizar APR-EMU para los juegos.",
+      "last_update": "21.08.2026",
+      "version": "v1"
+    },
   ]
 }
